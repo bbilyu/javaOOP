@@ -1,8 +1,8 @@
 package homeWorkFive;
-// Оператор, работает и импортом и экспортом фалов
 import java.io.*;
 import java.util.ArrayList;
 
+// Оператор, работает и импортом и экспортом фалов
 
 public class FileOperator {
 

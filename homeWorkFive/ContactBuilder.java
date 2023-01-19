@@ -32,5 +32,4 @@ public class ContactBuilder{
         return t;
     }
 
-
 }
